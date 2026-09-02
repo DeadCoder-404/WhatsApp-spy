@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp spy CLI & Automation Hub",
+  "description": "WhatsApp Multi-Device Automation Bot featuring 8-digit phone number pairing login, persistent forever session storage, Groq LLaMA-3.1 AI auto-replies, profile and status management, message listener, and native Python desktop program.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
