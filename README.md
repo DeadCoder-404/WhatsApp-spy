@@ -1,6 +1,6 @@
-# WhatsApp Multi-Device Automation Bot (Terminal & Python CLI)
+# WhatsApp Multi-Device Automation spy (Terminal & Python CLI)
 
-A Python CLI and command-line automation bot for WhatsApp Multi-Device with **Phone Number Pairing Code (No QR scan required)**, Profile updates, WhatsApp Status broadcasts, Automated Replies, Gemini AI smart responses, and Live Message Listening.
+A Python CLI and command-line automation spy for WhatsApp Multi-Device with **Phone Number Pairing Code (No QR scan required)**, Profile updates, WhatsApp Status broadcasts, Automated Replies, Gemini AI smart responses, and Live Message Listening.
 
 ---
 
