@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #09090b; /* zinc-950 */
+    color: #d4d4d8; /* zinc-300 */
+    font-family: 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+}
+
+.bg-dot-grid {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+.glow-indicator {
+  box-shadow: 0 0 10px rgba(34, 197, 94, 0.6);
+}
+
+.glow-indicator-amber {
+  box-shadow: 0 0 10px rgba(245, 158, 11, 0.6);
+}
+
+.glow-indicator-rose {
+  box-shadow: 0 0 10px rgba(244, 63, 94, 0.6);
+}
