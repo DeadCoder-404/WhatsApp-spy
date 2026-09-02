@@ -63,6 +63,7 @@ export WHATSAPP_BOT_URL="https://your-bot-app.run.app"
 python3 scripts/whatsapp_bot.py --status
 ```
 
+```text
 For Running it in Localhost (WebApp or Desktop) use the Following Commands:
 
 run_desktop.bat (Windows)
@@ -70,5 +71,7 @@ run_desktop.sh  (Linux)
 
 start_localhost.bat (Windows)
 start_localhost.sh  (Linux)
-
 auto_run.py (for Auto Install)
+```
+
+
