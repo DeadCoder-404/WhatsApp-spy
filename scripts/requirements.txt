@@ -1,0 +1,7 @@
+# WhatsApp Bot Python CLI Requirements
+# Standard python3 is sufficient (uses built-in urllib)
+# Optional enhancements:
+requests>=2.28.0
+websockets>=11.0.0
+colorama>=0.4.6
+rich>=13.0.0
